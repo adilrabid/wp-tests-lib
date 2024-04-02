@@ -1,0 +1,14 @@
+{
+    "name": "adilrabid/wp-tests-lib",
+    "description": "\"A customized version of wordporess-tests-lib\"",
+    "type": "library",
+    "authors": [
+        {
+            "name": "adilrabid"
+        }
+    ],
+    "require-dev": {
+        "phpcompatibility/phpcompatibility-wp": "~2.1.3",
+        "yoast/phpunit-polyfills": "^1.1.0"
+    }
+}
